@@ -1,16 +1,26 @@
-# React + Vite
+Project Name :
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+KinKeeper – Relationship Management Web App
 
-Currently, two official plugins are available:
+Short Description :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+KinKeeper is a responsive web application designed to help users maintain meaningful relationships by tracking interactions, setting communication goals, and visualizing engagement through analytics. Users can monitor contact frequency, log interactions (calls, texts, videos), and stay consistent with their social connections.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+Technologies Used
+1.React (Vite)
+2.JavaScript (ES6)
+3.Tailwind CSS
+4.Lucide React Icons
+5.Custom Context API (State Management)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+3 Key Features:
+Dynamic Friend Management System
+Displays real-time friend data from a JSON file with status tracking (overdue, almost due, on-track) and detailed profile pages.
+Interaction Tracking with Timeline & Toast Notifications
+Users can log Call, Text, and Video interactions, which instantly update the timeline and trigger toast notifications.
+Analytics Dashboard (Stats Page)
+Visual representation of user interactions using a donut chart, helping users understand their communication patterns.
