@@ -14,7 +14,7 @@ Technologies Used
 3.Tailwind CSS
 4.Lucide React Icons
 5.Custom Context API (State Management)
-
+6.Analytics chart
 
 
 3 Key Features:
