@@ -1,0 +1,123 @@
+
+[
+  {
+    "id": 1,
+    "name": "Aisha Rahman",
+    "picture": "https://randomuser.me/api/portraits/women/12.jpg",
+    "email": "aisha.rahman@example.com",
+    "day-since-contact": 14,
+    "status": "active",
+    "tags": ["marketing", "networking"],
+    "bio": "Digital marketer specializing in social media campaigns.",
+    "goal": "Expand client base in Southeast Asia.",
+    "next-due-date": "2026-04-20"
+  },
+  {
+    "id": 2,
+    "name": "David Chen",
+    "picture": "https://randomuser.me/api/portraits/men/45.jpg",
+    "email": "david.chen@example.com",
+    "day-since-contact": 30,
+    "status": "inactive",
+    "tags": ["finance", "investment"],
+    "bio": "Financial analyst with expertise in emerging markets.",
+    "goal": "Launch a fintech advisory service.",
+    "next-due-date": "2026-05-01"
+  },
+  {
+    "id": 3,
+    "name": "Sophia Martinez",
+    "picture": "https://randomuser.me/api/portraits/women/33.jpg",
+    "email": "sophia.martinez@example.com",
+    "day-since-contact": 7,
+    "status": "active",
+    "tags": ["design", "UX"],
+    "bio": "UX designer passionate about accessibility in tech.",
+    "goal": "Publish a design guidebook.",
+    "next-due-date": "2026-04-18"
+  },
+  {
+    "id": 4,
+    "name": "Omar Khalid",
+    "picture": "https://randomuser.me/api/portraits/men/21.jpg",
+    "email": "omar.khalid@example.com",
+    "day-since-contact": 3,
+    "status": "active",
+    "tags": ["engineering", "AI"],
+    "bio": "Machine learning engineer focused on healthcare solutions.",
+    "goal": "Develop predictive diagnostic tools.",
+    "next-due-date": "2026-04-16"
+  },
+  {
+    "id": 5,
+    "name": "Emily Johnson",
+    "picture": "https://randomuser.me/api/portraits/women/56.jpg",
+    "email": "emily.johnson@example.com",
+    "day-since-contact": 45,
+    "status": "inactive",
+    "tags": ["education", "writing"],
+    "bio": "Author and educator creating online learning resources.",
+    "goal": "Launch a digital literacy course.",
+    "next-due-date": "2026-05-10"
+  },
+  {
+    "id": 6,
+    "name": "Rajesh Patel",
+    "picture": "https://randomuser.me/api/portraits/men/67.jpg",
+    "email": "rajesh.patel@example.com",
+    "day-since-contact": 20,
+    "status": "active",
+    "tags": ["entrepreneurship", "startups"],
+    "bio": "Startup founder building sustainable energy solutions.",
+    "goal": "Secure Series A funding.",
+    "next-due-date": "2026-04-25"
+  },
+  {
+    "id": 7,
+    "name": "Hannah Lee",
+    "picture": "https://randomuser.me/api/portraits/women/71.jpg",
+    "email": "hannah.lee@example.com",
+    "day-since-contact": 10,
+    "status": "active",
+    "tags": ["art", "community"],
+    "bio": "Community artist organizing local exhibitions.",
+    "goal": "Host an international art fair.",
+    "next-due-date": "2026-04-19"
+  },
+  {
+    "id": 8,
+    "name": "Michael Brown",
+    "picture": "https://randomuser.me/api/portraits/men/82.jpg",
+    "email": "michael.brown@example.com",
+    "day-since-contact": 5,
+    "status": "active",
+    "tags": ["sports", "coaching"],
+    "bio": "Athletic coach specializing in youth development.",
+    "goal": "Open a training academy.",
+    "next-due-date": "2026-04-17"
+  },
+  {
+    "id": 9,
+    "name": "Fatima Noor",
+    "picture": "https://randomuser.me/api/portraits/women/90.jpg",
+    "email": "fatima.noor@example.com",
+    "day-since-contact": 25,
+    "status": "inactive",
+    "tags": ["research", "science"],
+    "bio": "Biochemist researching renewable biofuels.",
+    "goal": "Publish findings in a leading journal.",
+    "next-due-date": "2026-04-28"
+  },
+  {
+    "id": 10,
+    "name": "Lucas Meyer",
+    "picture": "https://randomuser.me/api/portraits/men/99.jpg",
+    "email": "lucas.meyer@example.com",
+    "day-since-contact": 2,
+    "status": "active",
+    "tags": ["technology", "innovation"],
+    "bio": "Tech innovator working on smart city solutions.",
+    "goal": "Prototype AI-driven traffic systems.",
+    "next-due-date": "2026-04-15"
+  }
+]
