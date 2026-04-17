@@ -17,7 +17,7 @@ export default function Navbar() {
             <Users className="h-5 w-5" />
           </div>
           <div>
-            <p className="text-lg font-bold tracking-tight text-slate-900">KinKeeper</p>
+            <p className="text-lg font-bold tracking-tight text-slate-900"><span className=" font-bolder">Keen</span>Keeper</p>
             <p className="text-xs font-medium text-slate-500">Keep every friendship warm</p>
           </div>
         </NavLink>
