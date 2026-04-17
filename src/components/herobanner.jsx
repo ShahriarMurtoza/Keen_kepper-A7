@@ -14,10 +14,11 @@ export default function HeroBanner({ summary }) {
       <div className="bg-gradient-to-b from-white via-white to-[#eef3f1] px-6 py-12 sm:px-10 sm:py-14">
         <div className="mx-auto max-w-3xl text-center">
           <h1 className="text-3xl font-bold tracking-tight text-slate-900 sm:text-5xl">
-            Stay close to the people who matter.
+            Friends to keep close in your life
           </h1>
           <p className="mx-auto mt-4 max-w-2xl text-base leading-7 text-slate-600 sm:text-lg">
-            Track contact rhythm, plan thoughtful check-ins, and build stronger relationships with a simple friendship dashboard.
+            Your personal shelf of meaningful connections. Browse, tend, and nurture the
+            relationships that matter most.
           </p>
           <button className="mt-6 inline-flex items-center gap-2 rounded-2xl bg-[#184f43] px-5 py-3 text-sm font-semibold text-white shadow-sm transition hover:translate-y-[-1px]">
             <UserPlus className="h-4 w-4" />
